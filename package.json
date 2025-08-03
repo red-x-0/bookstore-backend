@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node ./build/index.js",
     "dev": "nodemon --watch src --ext ts --exec ts-node src/index.ts",
@@ -46,3 +46,4 @@
     "eslint": "^8.51.0"
   }
 }
+
