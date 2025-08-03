@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "book-store-pro",
+			"path": "../../book-store-pro"
+		},
+		{
+			"name": "bookstore backend",
+			"path": ".."
+		}
+	],
+  "settings": {}
+}
